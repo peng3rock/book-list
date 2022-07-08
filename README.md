@@ -20,4 +20,5 @@
 
 [Effective Debugging 软件和系统调试的66个有效方法.pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/Effective%20Debugging%20%20%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E8%AF%95%E7%9A%8466%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95.pdf)
 
-
+## C/C++
+[C++并发编程(中文版)（C++ Concurrency In Action）](https://www.bookset.io/read/cpp_concurrency_in_action/README.md)
