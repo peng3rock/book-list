@@ -6,12 +6,12 @@
 
 [Linux 4.4.0 内核源码分析.pdf](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/Linux%E7%BD%91%E7%BB%9C/Linux%E5%86%85%E6%A0%B8%E7%BD%91%E7%BB%9C/Linux%204.4.0%20%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.pdf)
 
+[Linux内核源代码情景分析.pdf](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/linux%20%E5%86%85%E6%A0%B8/Linux%E5%86%85%E6%A0%B8%E6%BA%90%E4%BB%A3%E7%A0%81%E6%83%85%E6%99%AF%E5%88%86%E6%9E%90.pdf)
+
 ## Makefile相关
 [Autotools.2nd.Edition.2019.11.pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7/Autotools.2nd.Edition.2019.11.pdf)
 
 [GNU+Make项目管理(第三版).pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7/GNU%2BMake%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)
-
-[automake 工具链使用](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7/automake%20%E5%B7%A5%E5%85%B7%E9%93%BE%E4%BD%BF%E7%94%A8)
 
 ## 调式相关
 [Debug Hacks 中文版.pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/Debug%20Hacks%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
