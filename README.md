@@ -24,3 +24,7 @@
 [C++并发编程(中文版)（C++ Concurrency In Action）](https://www.bookset.io/read/cpp_concurrency_in_action/README.md)
 
 [程序员的自我修养--链接、装载与库(高清带完整书签版)](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/Linux%20C/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB--%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93(%E9%AB%98%E6%B8%85%E5%B8%A6%E5%AE%8C%E6%95%B4%E4%B9%A6%E7%AD%BE%E7%89%88).pdf)
+
+[C Primer Plus 第六版 [带书签].pdf](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/Linux%20C/C%20Primer%20Plus%20%E7%AC%AC%E5%85%AD%E7%89%88%20%5B%E5%B8%A6%E4%B9%A6%E7%AD%BE%5D.pdf)
+
+[C++ Primer Plus 第6版 中文版.pdf](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/Linux%20C/C%2B%2B%20Primer%20Plus%20%20%E7%AC%AC6%E7%89%88%20%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
