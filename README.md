@@ -20,6 +20,8 @@
 
 [Effective Debugging 软件和系统调试的66个有效方法.pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/Effective%20Debugging%20%20%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E8%AF%95%E7%9A%8466%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95.pdf)
 
+[软件调试修炼之道.pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/%E8%BD%AF%E4%BB%B6%E8%B0%83%E8%AF%95%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
+
 ## C/C++
 [C++并发编程(中文版)（C++ Concurrency In Action）](https://www.bookset.io/read/cpp_concurrency_in_action/README.md)
 
@@ -28,3 +30,8 @@
 [C Primer Plus 第六版 [带书签].pdf](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/Linux%20C/C%20Primer%20Plus%20%E7%AC%AC%E5%85%AD%E7%89%88%20%5B%E5%B8%A6%E4%B9%A6%E7%AD%BE%5D.pdf)
 
 [C++ Primer Plus 第6版 中文版.pdf](https://github.com/peng3rock/note/blob/main/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/Linux%20%E5%BC%80%E5%8F%91/Linux%20C/C%2B%2B%20Primer%20Plus%20%20%E7%AC%AC6%E7%89%88%20%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+## 版本控制
+[版本控制之道-使用Git.2010.中文版.pdf](https://github.com/peng3rock/note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B9%8B%E9%81%93-%E4%BD%BF%E7%94%A8Git.2010.%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+
