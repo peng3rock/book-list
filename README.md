@@ -12,6 +12,8 @@
 
 [Linux 网络编程](https://www.bookstack.cn/read/fasionchan-linux-network-programming/db184f2f59695c08.md)
 
+[计算机网络 （第5版）](https://pan.baidu.com/s/1ymNSErB6EzPzRdfhQOATEg)
+
 ## Makefile相关
 [Autotools.2nd.Edition.2019.11.pdf](https://pan.baidu.com/disk/pdfview?path=%2F_pcs_.workspace%2Fbook%2FAutotools.2nd.Edition.2019.11.pdf)
 
