@@ -14,10 +14,14 @@
 
 [计算机网络 （第5版）](https://pan.baidu.com/s/1ymNSErB6EzPzRdfhQOATEg)
 
-## Makefile相关
+## 软件架构
 [Autotools.2nd.Edition.2019.11.pdf](https://pan.baidu.com/disk/pdfview?path=%2F_pcs_.workspace%2Fbook%2FAutotools.2nd.Edition.2019.11.pdf)
 
 [GNU+Make项目管理(第三版).pdf](https://pan.baidu.com/disk/pdfview?path=%2F_pcs_.workspace%2Fbook%2FGNU%2BMake%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)
+
+[深入理解软件构造系统](https://pan.baidu.com/s/1T_AtA0FopDjvMwlktTOzSQ)
+
+[重构 改善既有代码的设计](https://pan.baidu.com/s/135aCNDSwKEAedxNenIRRJA)
 
 ## 调式相关
 [Debug Hacks 中文版.pdf](https://pan.baidu.com/disk/pdfview?path=%2F_pcs_.workspace%2Fbook%2FDebug%20Hacks%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
