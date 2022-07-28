@@ -14,6 +14,8 @@
 
 [计算机网络 （第5版）](https://pan.baidu.com/s/1ymNSErB6EzPzRdfhQOATEg)
 
+[深入理解Linux网络](https://pan.baidu.com/s/17z-fdizX-L1_yoJXPllVNA)
+
 ## 容器
 [每天5分钟玩转Docker容器技术](https://pan.baidu.com/s/12Hd0Y0ETk1YcYxXAhcemEg)
 
